@@ -1,0 +1,9 @@
+.addremove{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.addremove >span{
+    margin-right: 5px;
+}

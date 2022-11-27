@@ -6,6 +6,7 @@ body {
 .movie-app > .row {
 	overflow-x: auto;
 	flex-wrap: nowrap;
+	display: flex;
 }
 
 .image-container {
@@ -34,3 +35,6 @@ body {
 	text-align: center;
 }
 
+.row >*{
+	width:auto;
+}
